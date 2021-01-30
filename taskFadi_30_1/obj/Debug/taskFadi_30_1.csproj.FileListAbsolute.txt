@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\taskFadi_30_1\taskFadi_30_1\bin\Debug\taskFadi_30_1.exe.config
+C:\Users\Dell\source\repos\taskFadi_30_1\taskFadi_30_1\bin\Debug\taskFadi_30_1.exe
+C:\Users\Dell\source\repos\taskFadi_30_1\taskFadi_30_1\bin\Debug\taskFadi_30_1.pdb
+C:\Users\Dell\source\repos\taskFadi_30_1\taskFadi_30_1\obj\Debug\taskFadi_30_1.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\taskFadi_30_1\taskFadi_30_1\obj\Debug\taskFadi_30_1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\taskFadi_30_1\taskFadi_30_1\obj\Debug\taskFadi_30_1.exe
+C:\Users\Dell\source\repos\taskFadi_30_1\taskFadi_30_1\obj\Debug\taskFadi_30_1.pdb
