@@ -44,11 +44,21 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="ClassChristeen1.cs" />
+    <Compile Include="ClassChristeen2.cs" />
+    <Compile Include="ClassFadi1.cs" />
+    <Compile Include="ClassFadi2.cs" />
+    <Compile Include="Empty.cs" />
+    <Compile Include="F.cs" />
+    <Compile Include="Interfaces\Christeen.cs" />
+    <Compile Include="Interfaces\Fadi.cs" />
+    <Compile Include="Interfaces\FadiChr.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
