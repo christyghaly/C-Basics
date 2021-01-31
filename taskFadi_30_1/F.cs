@@ -20,7 +20,6 @@ namespace taskFadi_30_1
         {
             Console.WriteLine("F, interface FadiChr");
         }
-
         public ref int ChristeenB(ref int b)
         {
             b -= 2;
@@ -35,19 +34,16 @@ namespace taskFadi_30_1
             Console.WriteLine(Fad);
             return Fad;
         }
-
         public void FadiA(int x)
         {
             Console.WriteLine("From FadiChr Interface,F class where x= " + x);
         }
-
-        public string FadiB(int x)
+       public string FadiB(int x)
         {
             string res = "F class from FadiChr Interface x=" + x.ToString();
             Console.WriteLine(res);
             return res;
         }
-
         public void TestCommon()
         {
             Console.WriteLine("TestCommon from FadiChr, F Class");
